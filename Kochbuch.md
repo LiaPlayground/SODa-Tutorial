@@ -17,7 +17,7 @@ import: https://raw.githubusercontent.com/LiaTemplates/Communica/0.0.2/README.md
 
 ## Zutaten
 
-![Zutaten](./media/zutaten.png)
+![Zutaten](./media/zutaten.jpg)
 
 | Zutat                             | Menge                    |
 | --------------------------------- | ------------------------ |
@@ -40,42 +40,42 @@ Die Zwiebel, Karotten und Sellerie klein schneiden.
 !?[](media/Kochschau.mp4#t=10.5,14.5)
 
       {{1}}
-![Gemüse schneiden](./media/gemuese_schneiden.png)
+![Gemüse schneiden](./media/gemuese_schneiden.jpg)
 
     --{{2}}--
 Das Öl in einem großen Topf erhitzen und das Gemüse darin anbraten.
 !?[](media/Kochschau.mp4#t=15,20)
 
       {{2}}
-![Gemüse anbraten](./media/gemuese_anbraten.png)
+![Gemüse anbraten](./media/gemuese_anbraten.jpg)
 
     --{{3}}--
 Die Gemüsebrühe hinzufügen und zum Kochen bringen.
 !?[](media/Kochschau.mp4#t=20,24)
 
       {{3}}
-![Gemüsebrühe hinzufügen](./media/gemuesebruehe_hinzufuegen.png)
+![Gemüsebrühe hinzufügen](./media/gemuesebruehe_hinzufuegen.jpg)
 
     --{{4}}--
 Die Buchstabennudeln hinzufügen und nach Packungsanweisung garen.
 !?[](media/Kochschau.mp4#t=24.5,29)
 
       {{4}}
-![Buchstabennudeln hinzufügen](./media/buchstabennudeln_hinzufuegen.png)
+![Buchstabennudeln hinzufügen](./media/buchstabennudeln_hinzufuegen.jpg)
 
     --{{5}}--
 Mit Salz, Pfeffer und frischen Kräutern abschmecken.
 !?[](media/Kochschau.mp4#t=30,33.5)
 
      {{5}}
-![Abschmecken](./media/abschmecken.png)
+![Abschmecken](./media/abschmecken.jpg)
 
     --{{6}}--
 Heiß servieren und genießen!
 !?[](media/Kochschau.mp4#t=33.5)
 
       {{6}}
-![Buchstabensuppe servieren](./media/buchstabensuppe_servieren.png)
+![Buchstabensuppe servieren](./media/buchstabensuppe_servieren.jpg)
 
 ## Medien
 
@@ -102,7 +102,7 @@ Wie viele Gramm Karotten werden für das Rezept benötigt?
 
 Welche Zutat ist NICHT in der Buchstabensuppe enthalten?
 
-[->[ Sellerie 🥬 | Zwiebel 🧅 | (Tomate) 🍅 | Buchstabennudeln 🍝 ]]
+[->[ Sellerie 🥬 | Zwiebel 🧅 | (Tomate 🍅) | Buchstabennudeln 🍝 ]]
 
 ---
 
