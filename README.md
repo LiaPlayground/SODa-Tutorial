@@ -1,5 +1,7 @@
 # SODa-Tutorial für LiaScript
 
+https://github.com/user-attachments/assets/4aa0cab1-7529-40ef-80dd-d61a8dc78b22
+
 ## Agenda
 
 Das Tutorial bietet eine umfassende Einführung in die Konzepte und Funktionen von LiaScript.
