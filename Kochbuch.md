@@ -7,6 +7,10 @@ version:  0.0.1
 
 edit:     true
 
+logo:     media/zutaten.jpg
+
+comment:  Dies ist ein interaktives Tutorial zur Zubereitung einer leckeren Buchstabensuppe.
+
 language: de
 
 narrator: Deutsch Female
