@@ -17,6 +17,8 @@ import: https://raw.githubusercontent.com/LiaTemplates/Communica/0.0.2/README.md
 
 # Kochbuch Buchstabensuppe
 
+!?[Buchstabensuppe](https://www.youtube.com/watch?v=V6paiDYJmOo)
+
 ## Zutaten
 
 ![Zutaten](./media/zutaten.jpg)
@@ -79,11 +81,11 @@ Heiß servieren und genießen!
       {{6}}
 ![Buchstabensuppe servieren](./media/buchstabensuppe_servieren.jpg)
 
-## Medien
+## Musik
 
 ?[eat it](https://open.spotify.com/intl-de/track/0WuYuWhLws8VahMy2zLLRJ)
 
-!?[Buchstabensuppe](https://www.youtube.com/watch?v=V6paiDYJmOo)
+??[Küche by Sketchfab](https://sketchfab.com/3d-models/kitchen-model-619862462bb9471282314af19669690f "by _MetaArt Design Studio_")
 
 ## Buchstabensuppenwissen
 
@@ -131,7 +133,7 @@ Welche der folgenden Zutaten werden laut Rezept benötigt? (Mehrere Antworten m�
 
 > __Es kommen nur die folgenden Zutaten in die Suppe:__
 >
-> ![Zutaten](./media/zutaten.png)
+> ![Zutaten](./media/zutaten.jpg)
 
 **************************
 
@@ -199,6 +201,8 @@ Personen: <script input="range" value="1" min="1" default="1" output="personen">
 
 
 ### Weitere Macros
+
+https://github.com/topics/liascript-template
 
 #### Wie wird das Wetter?
 
