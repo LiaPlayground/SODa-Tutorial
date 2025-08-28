@@ -5,6 +5,8 @@ email:    your@mail.org
 
 version:  0.0.1
 
+edit:     true
+
 language: de
 
 narrator: Deutsch Female
