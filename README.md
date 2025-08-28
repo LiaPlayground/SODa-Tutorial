@@ -41,3 +41,8 @@ Die "Lösungsdatei" enthält die fertige Version des Tutorials mit allen besproc
    - LiaScript gerendert: https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/SODa-Tutorial/refs/heads/main/Kochbuch.md
    - LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/SODa-Tutorial/refs/heads/main/Kochbuch.md
 
+__Making of Buchstabensuppe__
+
+Die "Making of"-Sektion bietet einen Einblick in den Entstehungsprozess der Buchstabensuppe und zeigt, wie die verschiedenen Elemente des Rezepts zusammenkommen.
+
+   - YouTube: [YouTube: Making of Buchstabensuppe](https://www.youtube.com/watch?v=nTz-l4GXJIE)
